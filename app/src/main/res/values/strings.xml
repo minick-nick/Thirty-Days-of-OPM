@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Thirty Days of OPM</string>
+    <string name="day">Day %s</string>
+    <string name="genre">Genre: %s</string>
+    <string name="yr_released">Year Released: %s</string>
+
+    <string name="song1_title">Come Inside of My Heart</string>
+    <string name="song1_artist">IV Of Spades</string>
+    <string name="song1_yr_release">2018</string>
+    <string name="song1_genre">Synthpop, OPM, Indie Pop, Contemporary R&amp;B, Smooth Soul</string>
+    <string name="song1_catchy_part">
+        \"Aking sinta ikaw na ang tahanan at mundo\n
+        Sa pagbalik mananatili na sa piling mo\n
+        Mundo\'y magiging ikaw\"</string>
+    <string name="song1_additional_info">
+        The lyrics express the protagonist\' love towards his partner and how
+        she is his world and home. Hes ask her to stay with him and promises to always
+        be by her side. The song emphasizes that being together makes everything else in
+        the world fade away and all that matters is their love.
+    </string>
+
+    <string name="song2_title">Ang Huling El Bimbo</string>
+    <string name="song2_artist">Eraserheads</string>
+    <string name="song2_yr_release">1995</string>
+    <string name="song2_genre">OPM, Pinoy Rock, Pop, Alternative Rock</string>
+    <string name="song2_catchy_part">
+        \"Magkahawak ang ating kamay\n
+        At walang kamalay-malay\n
+        Na tinuruan mo ang puso ko\n
+        Na umibig ng tunay\"
+    </string>
+    <string name="song2_additional_info">
+        One of the greatest songs ever created. The song tells the story of a man\'s
+        unrequited love his childhood friend. The story ended tragically. This song made
+        history and records in the Philippines and made way internationally. The melody
+        of the song is still hummed by Filipino\'s everywhere. One of the \"undying songs.\"
+    </string>
+
+    <string name="song3_title">Magasin</string>
+    <string name="song3_artist">Eraserheads</string>
+    <string name="song3_yr_release">1994</string>
+    <string name="song3_genre">Pop, Pinoy Rock</string>
+    <string name="song3_catchy_part">
+        \"Naaalala mo pa ba no\'ng tayo pang dal\'wa?\n
+        \'Di ko inakalang sisikat ka\"
+    </string>
+    <string name="song3_additional_info">
+        The song created by Eraserheads entitled Magasin (Magasin) is a story of a guy who
+        discovered that his childhood friend was now in a cover of a magazine. He was mesmerize
+        because he used to tease the girl and now she is famous and in the cover of the
+        magazine. The chorus of the song states that how he had wished that he hadn\'t seen
+        the magazine because he doesn\'t have enough money to buy it and have her beautiful face.
+    </string>
+
+</resources>
