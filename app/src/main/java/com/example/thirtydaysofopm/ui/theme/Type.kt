@@ -20,6 +20,31 @@ val PTSansNarrow = FontFamily(
     Font(R.font.ptsans_narrow_bold, FontWeight.Bold)
 )
 
+val Typography = Typography(
+    displaySmall = TextStyle(
+        fontFamily = BBTMartires,
+        fontWeight = FontWeight.ExtraBold,
+        fontSize = 24.sp,
+        letterSpacing = 1.2.sp
+    ),
+    headlineSmall = TextStyle(
+        fontFamily = BBTMartires,
+        fontWeight = FontWeight.ExtraBold,
+        fontSize = 24.sp
+    ),
+    bodyMedium = TextStyle(
+        fontFamily = FontFamily.Default,
+        fontWeight = FontWeight.Normal,
+        lineHeight = 16.5.sp
+    ),
+    bodySmall = TextStyle(
+        fontFamily = FontFamily.Default,
+        fontWeight = FontWeight.Medium,
+        lineHeight = 14.5.sp
+    )
+)
+/*
+
 // Set of Material typography styles to start with
 val Typography = Typography(
     displayMedium = TextStyle(
@@ -72,4 +97,4 @@ val Typography = Typography(
 //        letterSpacing = 0.5.sp
     )
 
-)
+)*/
